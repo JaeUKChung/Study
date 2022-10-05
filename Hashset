@@ -1,1 +1,16 @@
+### Hashset: set 인터페이스에서 지원하는 구현 클래스
 
+> 1.순서x, 일정x <br>
+> 2.null 허용 <br>
+> 3.중복을 허용 하지않음 <br>
+ <br> <br>
+## HashSet 변수 선언 <br>
+1. HashSet<데이터타입> 변수명 = new HashSet<데이터타입>(); 
+ <br> <br>
+## HashSet 변수 선언 <br>
+1. HashSet의 add 메소드를 사용하여 값 추가 <br>
+>예) <br>
+>HashSet<Integer> set = new HashSet<Integer>(); <br>
+> <br>  
+>set.add(1); <br>
+>set.add(2); <br>
